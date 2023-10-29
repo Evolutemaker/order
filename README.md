@@ -1,16 +1,18 @@
 # order
 
-A new Flutter project.
+### State management
+Simple state management, BLoC pattern
+### Comments
+- Added additional screen for adding the user, because i noticed the issue of user model absence on ordering page.
+- Some dirty code on ordering_screen due to the absence of Decomposition of widgets, in other files
+- UI and Layout of Figma file were displayed accordingly
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/add_address.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/add_address2.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/add_user.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/calendar.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/home.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/ordering2.png)
+![alt text](https://github.com/Evolutemaker/order/blob/main/assets/screenshots/select_address.png)
